@@ -1,3 +1,3 @@
 module.exports = {
-  components: require('./lib/components')
+  components: require('./lib/components.js')
 };

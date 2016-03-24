@@ -6,7 +6,7 @@
   "scripts": { },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/krambuhl/rogain-core-helpers.git"
+    "url": "git+https://github.com/krambuhl/rogain-core-bundle.git"
   },
   "keywords": [
     "rogain",
@@ -19,9 +19,9 @@
   "author": "Evan Krambuhl <thekrambuhl@gmail.com> (http://stumptownbear.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/krambuhl/rogain-core-helpers/issues"
+    "url": "https://github.com/krambuhl/rogain-core-bundle/issues"
   },
-  "homepage": "https://github.com/krambuhl/rogain-core-helpers",
+  "homepage": "https://github.com/krambuhl/rogain-core-bundle",
   "devDependencies": {
     "tape": "~4"
   },
