@@ -26,17 +26,15 @@
     "tape": "~4"
   },
   "dependencies": {
-    "rogain-component-children": "~1.0",
-    "rogain-component-defined": "~1.0",
-    "rogain-component-each": "~1.0",
-    "rogain-component-else": "~1.0",
-    "rogain-component-empty": "~1.0",
-    "rogain-component-frame": "~1.0",
-    "rogain-component-if": "~1.0",
-    "rogain-component-range": "~1.0",
-    "rogain-component-slot": "~1.0",
-    "rogain-component-unless": "~1.0",
-    "rogain-transform-children": "~1.0",
-    "rogain-transform-slots": "~1.0"
+    "rogain-component-children": "git+https://git@github.com/krambuhl/rogain-component-children.git",
+    "rogain-component-defined": "git+https://git@github.com/krambuhl/rogain-component-defined.git",
+    "rogain-component-each": "git+https://git@github.com/krambuhl/rogain-component-each.git",
+    "rogain-component-else": "git+https://git@github.com/krambuhl/rogain-component-else.git",
+    "rogain-component-empty": "git+https://git@github.com/krambuhl/rogain-component-empty.git",
+    "rogain-component-frame": "git+https://git@github.com/krambuhl/rogain-component-frame.git",
+    "rogain-component-if": "git+https://git@github.com/krambuhl/rogain-component-if.git",
+    "rogain-component-range": "git+https://git@github.com/krambuhl/rogain-component-range.git",
+    "rogain-component-slot": "git+https://git@github.com/krambuhl/rogain-component-slot.git",
+    "rogain-component-unless": "git+https://git@github.com/krambuhl/rogain-component-unless.git"
   }
 }

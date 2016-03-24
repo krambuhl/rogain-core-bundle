@@ -1,4 +1,3 @@
 module.exports = {
-  components: require('./lib/components'),
-  transforms: require('./lib/transforms')
+  components: require('./lib/components')
 };
