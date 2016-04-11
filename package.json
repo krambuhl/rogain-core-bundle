@@ -1,6 +1,6 @@
 {
   "name": "rogain-core-components",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Core components for Rogain templates.",
   "main": "index.js",
   "scripts": { },
@@ -24,8 +24,8 @@
     "tape": "~4"
   },
   "dependencies": {
-    "rogain-component-each": "git+https://git@github.com/krambuhl/rogain-component-each.git",
-    "rogain-component-frame": "git+https://git@github.com/krambuhl/rogain-component-frame.git",
-    "rogain-component-if": "git+https://git@github.com/krambuhl/rogain-component-if.git"
+    "rogain-component-each": "~1.0",
+    "rogain-component-frame": "~1.0",
+    "rogain-component-if": "~1.0"
   }
 }
