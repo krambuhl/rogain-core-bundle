@@ -1,40 +1,31 @@
 {
-  "name": "rogain-core-bundle",
+  "name": "rogain-core-components",
   "version": "0.1.0",
-  "description": "Core bundle of components and transforms for Rogain templates.",
+  "description": "Core components for Rogain templates.",
   "main": "index.js",
   "scripts": { },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/krambuhl/rogain-core-bundle.git"
+    "url": "git+https://github.com/krambuhl/rogain-core-components.git"
   },
   "keywords": [
     "rogain",
     "rogain-component",
-    "rogain-transform",
-    "rogain-bundle",
-    "components",
-    "transforms"
+    "rogain-components",
+    "components"
   ],
   "author": "Evan Krambuhl <thekrambuhl@gmail.com> (http://stumptownbear.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/krambuhl/rogain-core-bundle/issues"
+    "url": "https://github.com/krambuhl/rogain-core-components/issues"
   },
-  "homepage": "https://github.com/krambuhl/rogain-core-bundle",
+  "homepage": "https://github.com/krambuhl/rogain-core-components",
   "devDependencies": {
     "tape": "~4"
   },
   "dependencies": {
-    "rogain-component-children": "git+https://git@github.com/krambuhl/rogain-component-children.git",
-    "rogain-component-defined": "git+https://git@github.com/krambuhl/rogain-component-defined.git",
     "rogain-component-each": "git+https://git@github.com/krambuhl/rogain-component-each.git",
-    "rogain-component-else": "git+https://git@github.com/krambuhl/rogain-component-else.git",
-    "rogain-component-empty": "git+https://git@github.com/krambuhl/rogain-component-empty.git",
     "rogain-component-frame": "git+https://git@github.com/krambuhl/rogain-component-frame.git",
-    "rogain-component-if": "git+https://git@github.com/krambuhl/rogain-component-if.git",
-    "rogain-component-range": "git+https://git@github.com/krambuhl/rogain-component-range.git",
-    "rogain-component-slot": "git+https://git@github.com/krambuhl/rogain-component-slot.git",
-    "rogain-component-unless": "git+https://git@github.com/krambuhl/rogain-component-unless.git"
+    "rogain-component-if": "git+https://git@github.com/krambuhl/rogain-component-if.git"
   }
 }
