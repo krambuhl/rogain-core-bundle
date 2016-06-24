@@ -10,7 +10,7 @@ Helper functions for logically rendering tags and modifying runtime properties.
 - [rogain-component-each](https://github.com/krambuhl/rogain-component-each)
 - [rogain-component-frame](https://github.com/krambuhl/rogain-component-frame)
 
-## Install 
+## Install
 
 With [npm](https://www.npmjs.com) do:
 
